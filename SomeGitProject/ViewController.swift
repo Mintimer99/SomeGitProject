@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("I can't code")
+        
+        //there is some code for BugFix purposes
     }
 
 
