@@ -13,12 +13,19 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("I can't code")
         
+<<<<<<< HEAD
         print("Main print")
+    }
+
+    
+=======
+        //there is some code for BugFix purposes
     }
 
     func bugFix(){
         print("bugfix print")
     }
+>>>>>>> BugFix
 
 }
 
