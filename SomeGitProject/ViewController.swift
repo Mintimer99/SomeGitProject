@@ -16,6 +16,9 @@ class ViewController: UIViewController {
         //there is some code for BugFix purposes
     }
 
+    func bugFix(){
+        print("bugfix print")
+    }
 
 }
 
